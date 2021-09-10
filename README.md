@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shefali Kanojia</h1>
 <h3 align="center">A girl learning and figuring out things around and making her way...</h3>
-<img src="https://tse4.mm.bing.net/th?id=OIP.9Fsma_vjU1XDfCNiIAmYOgAAAA&pid=Api&P=0&w=300&h=300">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shefali12-ab&label=Profile%20views&color=0e75b6&style=flat" alt="shefali12-ab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shefali12-ab" alt="shefali12-ab" /></a> </p>
