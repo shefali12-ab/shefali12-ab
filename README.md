@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shefali Kanojia</h1>
-<h3 align="center">A girl learning and figuring out things around and making her way...</h3>
+<h1 align="center">Hii 👋</h1>
+<p align="left">I am Shefali Kanojia , a 3rd year student pursuing Electronics and Communication Engineering. Currently I know C,C++ language and I love contributing in opensource projects as I think it gives me oppurtunity to part of someone else project and it will give great feeling when you add some feature and it will get accepted , Right now I am learning Javascript and React JS .
+ Also I love designing illustrations on Adobe Illustrator. 
+</p>
 
 
 
