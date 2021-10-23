@@ -2,6 +2,7 @@
 <p align="left">I am Shefali Kanojia , a 3rd year student pursuing Electronics and Communication Engineering. Currently I know C,C++ language and I love contributing in opensource projects as I think it gives me oppurtunity to part of someone else project and it will give great feeling when you add some feature and it will get accepted , Right now I am learning Javascript and React JS .
  Also I love designing illustrations on Adobe Illustrator. 
 </p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 
 
