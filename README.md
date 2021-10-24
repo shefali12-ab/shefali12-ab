@@ -7,7 +7,7 @@
  - 🤞 I’m currently learning **Javascript and React JS.**
  - 🌱 I love designing illustrations on **Adobe Illustrator.**
  - 🌱 I love contributing in opensource projects as I think it gives me oppurtunity to part of someone else project and it will give great feeling when you add some feature and it will get accepted.
- - ⚡ Reading books, Art and exploring Nature have my ❤️.
+ - ⚡ Books, Art, Music and exploring Nature have my ❤️.
  <br>
 
 <!--  <h3 align="left">Connect with me:</h3>
