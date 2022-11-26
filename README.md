@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
- - 🔭 I’m a **3rd year Student from NIT Hamirpur.**
+ - 🔭 I’m a **4th year Student from NIT Hamirpur.**
  - ✔️ I’m familiar with **C and C++ Language.**
  - 🤞 I’m currently learning **Javascript and React JS.**
  - 🌱 I love designing illustrations on **Adobe Illustrator.**
